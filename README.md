@@ -2,4 +2,4 @@
 
 This repository is an official implementation of PROCA using [pytorch](https://pytorch.org/). 
 
-The code and data will be available soon.
+The code and data will be made available soon.
