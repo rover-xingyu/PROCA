@@ -1,6 +1,6 @@
 # PROCA: Place Recognition under Occlusion and Changing Appearance via Disentangled Representations 
 
-[Paper](https://arxiv.org/pdf/2211.11439.pdf)**
+**[Paper](https://arxiv.org/pdf/2211.11439.pdf)**
 
 [Yue Chen¹](https://fanegg.github.io/), 
 [Xingyu Chen¹](https://rover-xingyu.github.io/), 
