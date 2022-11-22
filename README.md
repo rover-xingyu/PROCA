@@ -9,4 +9,4 @@
 
 This repository is an official implementation of PROCA using [pytorch](https://pytorch.org/). 
 
-## Brewing🍺, code coming soon.
+The code and data will be made available.
