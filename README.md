@@ -6,7 +6,7 @@
 [Xingyu Chen¹](https://rover-xingyu.github.io/),
 [Yicen Li²](https://github.com/YicenJoJo)
 
-[¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
+[¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²McMaster University](https://www.mcmaster.ca/)
 
 This repository is an official implementation of PROCA using [pytorch](https://pytorch.org/). 
