@@ -32,7 +32,7 @@ cd PROCA
 ### Datasets
 - The dataset we use in this paper is from [CMU-Seasons Dataset](https://data.ciirc.cvut.cz/public/projects/2020VisualLocalization/CMU-Seasons/).
 - In order to verify the generalization ability of PROCA, we sample images from the urban part as the training set, and evaluate on the suburban and park parts. 
-- We label the images with occlusion and without occlusion depending on if there are dynamic objects in the images. You can find our labels in [`dataset/CMU_Seasons_Occlusions.json`](dataset\CMU_Seasons_Occlusions.json) 
+- We label the images with occlusion and without occlusion depending on if there are dynamic objects in the images. You can find our labels in [`dataset/CMU_Seasons_Occlusions.json`](dataset/CMU_Seasons_Occlusions.json) 
 - The dataset is organized as follows:
 ```
     ├── CMU_urban
