@@ -7,7 +7,8 @@
 [Xingyu Chen¹†](https://rover-xingyu.github.io/),
 [Yicen Li²](https://yicen-research.webador.com/)
 
-[†Corresponding Author](https://rover-xingyu.github.io/),
+[†Corresponding Author and Project Lead](https://rover-xingyu.github.io/)
+
 [¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²McMaster University](https://www.mcmaster.ca/)
 
