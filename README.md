@@ -3,7 +3,7 @@
 **[Paper](https://arxiv.org/pdf/2211.11439.pdf) |
 [Video](https://www.youtube.com/watch?v=W_tol4aHIQk)**
 
-[Yue Chen¹](https://fanegg.github.io/), 
+[Yue Chen¹]([https://fanegg.github.io/](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en)), 
 [Xingyu Chen¹†⚑](https://rover-xingyu.github.io/),
 [Yicen Li²](https://yicen-research.webador.com/)
 
